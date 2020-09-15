@@ -1,0 +1,37 @@
+# core learning and data
+pandas
+scipy
+scikit-learn
+scikit-image
+patsy
+statsmodels
+tensorflow
+# viz
+ipywidgets
+matplotlib
+seaborn
+bokeh
+altair
+# database connections
+vertica-python
+# sqlalchemy
+
+# other
+jinja2
+python-dotenv
+xlrd
+
+# useful stuff that I don't actually use:
+# numexpr
+# cloudpickle
+# dill
+# numba
+# sympy
+# cython
+# hdf5
+# h5py
+# vincent
+# beautifulsoup4
+# protobuf
+# keras
+# xgboost
